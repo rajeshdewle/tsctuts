@@ -1,1 +1,1 @@
-# tsctuts
+# tsctuts - Simple TypeScript Study
